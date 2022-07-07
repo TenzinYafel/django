@@ -1,7 +1,9 @@
 """
 Invokes django-admin when the django module is run as a script.
 
-Example: python -m django check
+Example: python -m django check 
+
+Comment made by Tenzin Yarphel
 """
 from django.core import management
 
